@@ -13,7 +13,7 @@ type HomeCardProps = {
 const map = (
   <section>
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6634.364942418686!2d-117.99126988902324!3d33.75595033320631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd262402d4e6f5%3A0x42f5fd21fdbb0b27!2s14200%20Beach%20Blvd%2C%20Westminster%2C%20CA%2092683!5e0!3m2!1sen!2sus!4v1718564500276!5m2!1sen!2sus"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.591667072147!2d-117.97398558902374!3d33.74537353376062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd27caaed9d6b5%3A0x7a376b81b136db84!2s9039%20Bolsa%20Ave%2C%20Westminster%2C%20CA%2092683!5e0!3m2!1sen!2sus!4v1728016801314!5m2!1sen!2sus"
       width="600"
       height="450"
       loading="lazy"
@@ -33,8 +33,10 @@ const HomeCard = ({ post }: HomeCardProps) => {
               <div className="text-center text-lg">
                 <p className="mb-2">{plaza.leasingDetail}</p>
                 <p>
-                  Please call or text John at 714-902-3989 <br />
-                  or email Robert at rdao2893@gmail.com
+                  Please contact <br />
+                  Loan (Jennifer) : {plaza.phone1} <br />
+                  An (John) : {plaza.phone2} <br />
+                  Robert : rdao2893@gmail.com
                 </p>
               </div>
             </div>

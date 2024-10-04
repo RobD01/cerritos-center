@@ -6,13 +6,13 @@
 
 :root {
   /* background */
-  --color1: #ecf2f3;
+  --color1: #f4f3e9;
 
   /* Navigation bar */
-  --color2: #d0e2f6;
+  --color2: #c2e0f0;
 
   /* Link active */
-  --color3: rgb(195, 213, 231);
+  --color3: #aed8ef;
 
   /* Form field */
   --color4: #;
@@ -367,4 +367,8 @@
   width: 100%;
   position: absolute;
   padding: 1rem;
+}
+
+.loading {
+  display: none;
 }

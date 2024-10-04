@@ -10,7 +10,7 @@ const LeftSidebar = () => {
       <div className="flex flex-col gap-4">
         <Link
           to="/"
-          className="text-lg rounded-xl  bg-amber-100 px-2 text-stone-600 py-2 px-5 shadow-md mx-auto"
+          className="text-lg rounded-xl  bg-amber-100 w-full text-stone-600 py-2 px-5 shadow-md mx-auto"
         >
           {plaza.name}
         </Link>
