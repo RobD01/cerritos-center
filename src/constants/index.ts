@@ -81,6 +81,7 @@ export const tenant = [
     address: "9039 Bolsa Ave # 101, Westminster, CA 92683",
     phone: "(714) 248-9972",
     category: "Coffee",
+    imgURL: "/assets/images/101.jpg",
   },
   {
     id: "103",
