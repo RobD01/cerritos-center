@@ -274,7 +274,7 @@
   }
 
   .post-card_img {
-    @apply w-full  object-bottom rounded-2xl object-cover p-2;
+    @apply object-contain object-center rounded-2xl  p-2;
   }
 
   /* Topbar */
