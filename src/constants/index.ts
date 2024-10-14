@@ -82,7 +82,7 @@ export const tenant = [
     phone: "(714) 248-9972",
     category: "Coffee",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipO5O6aKiV2EGhY8mk1EFA-oSK4TS4IJZnH7OjLm",
+      "https://lh5.googleusercontent.com/p/AF1QipO5O6aKiV2EGhY8mk1EFA-oSK4TS4IJZnH7OjLm=s677-k-no",
   },
   {
     id: 103,
@@ -90,7 +90,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 103, Westminster, CA 92683",
     phone: "",
     category: "Investment",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPtnJD_-ddTHwR_u5s0eAz21hQFwW2QMUI2a-U=s387-k-no",
   },
   {
     id: 105,
@@ -98,7 +99,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 105, Westminster, CA 92683",
     phone: "(714) 890-7177",
     category: "Tailor",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipNltEGvqeBLt29HjdL92Oci-7udI9BNBLilkeSy",
   },
   {
     id: 106,
@@ -106,7 +108,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 106, Westminster, CA 92683",
     phone: "(714) 894-6250",
     category: "Water",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPOXXRrMJJ664EwgpdeDqT4yiU_Vo86WJ92UYOg",
   },
   {
     id: 107,
@@ -114,7 +117,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 107, Westminster, CA 92683",
     phone: "(714) 722-1979",
     category: "Salon",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipOJXa7yJPMZCWvKCLM0LLzLXVOO5qjV6JmCiDrO",
   },
   {
     id: 108,
@@ -122,7 +126,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 108, Westminster, CA 92683",
     phone: "(714) 896-8703",
     category: "Real estate",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipP9RUg8Vd1GKID8qGwsFN5t0O7fSoYNzFBK8a8W",
   },
   {
     id: 110,
@@ -130,7 +135,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 110, Westminster, CA 92683",
     phone: "(714) 728-8991",
     category: "Optometry",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipOEIqreywWtucvKpLM4v_DlYEKHk4R8RCgTxXtN",
   },
   {
     id: "113-118",
@@ -138,7 +144,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 113-118, Westminster, CA 92683",
     phone: "(714) 379-2560",
     category: "Dentist",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipMaWGTrx4Mwom6XBe0bCMaiQfChYv4RRwK-Lher",
   },
   {
     id: 201,
@@ -146,7 +153,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 201, Westminster, CA 92683",
     phone: "(714) 903-0446",
     category: "Cosmetic",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPLhQGd0WApF5-qYeRJS589Vp-1AnGL6PHY2rFT",
   },
   {
     id: 203,
@@ -154,7 +162,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 203, Westminster, CA 92683",
     phone: "(714) 891-4780",
     category: "Hearing",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipMDEbif7Fsk4ycJku6Q5ObU6rJnW3h-8TzvC0zb",
   },
   {
     id: "204-205",
@@ -162,7 +171,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 204-205, Westminster, CA 92683",
     phone: "(714) 383-1337",
     category: "Beauty",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPeUssHualwoD868BHzxlUKs0jRnPasifQ4az-6",
   },
   {
     id: 206,
@@ -170,7 +180,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 206, Westminster, CA 92683",
     phone: "(888) 861-4515",
     category: "Security",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipMOl2PIO17rZ10K3bHpwl4QeAn9IabY3CLgrlk_",
   },
   {
     id: 207,
@@ -178,7 +189,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 207, Westminster, CA 92683",
     phone: "(714) 372-3747",
     category: "Massage",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipMtwPxSKxr1556OSzWoCLjn543A-8ikXhCGzVbg",
   },
   {
     id: 210,
@@ -186,7 +198,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 210, Westminster, CA 92683",
     phone: "(657) 227-8212",
     category: "Shipping",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipNrLbRcjngm6V5ulSCOTutG1eiWNeNFgfEwRGCC",
   },
   {
     id: 211,
@@ -202,7 +215,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 212, Westminster, CA 92683",
     phone: "(714) 899-3109",
     category: "Insurance",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPPodlQim-dowaNrpqrafdlqSkZ_qThfd0H0u6j",
   },
   {
     id: 213,
@@ -210,7 +224,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 213, Westminster, CA 92683",
     phone: "(657) 227-8212",
     category: "Shipping",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipNrLbRcjngm6V5ulSCOTutG1eiWNeNFgfEwRGCC",
   },
   {
     id: 214,
@@ -218,7 +233,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 214, Westminster, CA 92683",
     phone: "(714) 458-6658",
     category: "Accountant",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPcKVTiKaWomgdUfjjoLhu5DI0tDPjRKwgFNLqb",
   },
   {
     id: "215-216",
