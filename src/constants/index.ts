@@ -82,7 +82,7 @@ export const tenant = [
     phone: "(714) 248-9972",
     category: "Coffee",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipO5O6aKiV2EGhY8mk1EFA-oSK4TS4IJZnH7OjLm=s677-k-no",
+      "https://lh5.googleusercontent.com/p/AF1QipO5O6aKiV2EGhY8mk1EFA-oSK4TS4IJZnH7OjLm",
   },
   {
     id: 103,
@@ -91,7 +91,7 @@ export const tenant = [
     phone: "",
     category: "Investment",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPtnJD_-ddTHwR_u5s0eAz21hQFwW2QMUI2a-U=s387-k-no",
+      "https://lh5.googleusercontent.com/p/AF1QipPtnJD_-ddTHwR_u5s0eAz21hQFwW2QMUI2a-U",
   },
   {
     id: 105,
@@ -242,7 +242,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 215-216, Westminster, CA 92683",
     phone: "(714) 892-8968",
     category: "Massage",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipM1EJuS2rIK9Qf42ntDIqnukytjnPV-L3WO-yTQ",
   },
   {
     id: 217,
@@ -250,7 +251,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 217, Westminster, CA 92683",
     phone: "(714) 898-3999",
     category: "Travel",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipMYVw8BO3AObFzZEbkc_dadBkaRM_GoUgNi8Tst",
   },
   {
     id: 218,
@@ -258,7 +260,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 218, Westminster, CA 92683",
     phone: "(714) 379-6449",
     category: "Lawyer",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipP1qtxslNEsRN-PyEY_NaNyGw2S6j-x4ML_dBXF",
   },
   {
     id: 302,
@@ -274,7 +277,8 @@ export const tenant = [
     address: "9039 Bolsa Ave # 303, Westminster, CA 92683",
     phone: "(714) 234-3684",
     category: "Beauty",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPC7zq1JAugkcWoiOql23k9f4nbDjAJqHJTxIY",
   },
   {
     id: 307,
@@ -322,6 +326,7 @@ export const tenant = [
     address: "9039 Bolsa Ave # 312-314, Westminster, CA 92683",
     phone: "(714) 894-3477",
     category: "Real estate",
-    imgURL: "",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPa6qdwICv07xElEFY_oMHyTbJFVpd5Eb7QbP0E",
   },
 ];
