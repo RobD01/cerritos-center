@@ -13,7 +13,7 @@ type HomeCardProps = {
 const map = (
   <section>
     <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3317.591667072147!2d-117.97398558902374!3d33.74537353376062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd27caaed9d6b5%3A0x7a376b81b136db84!2s9039%20Bolsa%20Ave%2C%20Westminster%2C%20CA%2092683!5e0!3m2!1sen!2sus!4v1728016801314!5m2!1sen!2sus"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3315.099430268789!2d-118.0034451901412!3d33.80974707313764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd292354d93851%3A0x7f6d8c8eb66dd223!2s7522%20W%20Cerritos%20Ave%2C%20Stanton%2C%20CA%2090680!5e0!3m2!1sen!2sus!4v1732422626161!5m2!1sen!2sus"
       width="600"
       height="450"
       loading="lazy"

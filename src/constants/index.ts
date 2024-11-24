@@ -35,15 +35,14 @@ export const bottombarLinks = [
 ];
 
 export const plaza = {
-  name: "Bolsa Center",
-  address: "9039 Bolsa Ave, Westminster, CA 92683",
+  name: "Cerritos Center",
+  address: "7500 - 7522 Cerritos Ave, Stanton, CA 90860",
   note: "Available for lease. Email or call for interest",
   phone1: "714-891-7856",
   phone2: "714-902-3989",
   email: "rdao2893@gmail.com",
-  leasing: true,
-  leasingDetail:
-    "One 1300 square foot space available now. Another 600 square foot space available November 2024",
+  leasing: false,
+  leasingDetail: "NA",
 };
 
 export const homeLinks = [
@@ -66,267 +65,103 @@ export const homeInfo = [
   },
   {
     id: 2,
-    address: "9039 Bolsa Ave, Westminster, CA 92683",
+    address: "7500 - 7522 Cerritos Ave, Stanton, CA 90860",
   },
   {
     id: 3,
-    video: "www.youtube.com/watch?v=iWkMbonpEVg",
+    video: "https://www.youtube.com/watch?v=EPBUfC9qD-w",
   },
 ];
 
 export const tenant = [
   {
-    id: 101,
-    name: "Trung Nguyen Coffee",
-    address: "9039 Bolsa Ave # 101, Westminster, CA 92683",
-    phone: "(714) 248-9972",
-    category: "Coffee",
+    id: 7500,
+    name: "Tacos Puro Jalisco #2",
+    address: "7500 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 236-5229",
+    category: "Restaurant",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipO5O6aKiV2EGhY8mk1EFA-oSK4TS4IJZnH7OjLm",
+      "https://lh5.googleusercontent.com/p/AF1QipMfFli20xnU7apwgyxaRpoMwsFgMJV6HA8nf1aC",
   },
   {
-    id: 103,
-    name: "Villa Group Real Estate Investment",
-    address: "9039 Bolsa Ave # 103, Westminster, CA 92683",
-    phone: "",
-    category: "Investment",
+    id: 7502,
+    name: "ACE COIN LAUNDRY",
+    address: "7502 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 251-6427",
+    category: "Cleaner",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPtnJD_-ddTHwR_u5s0eAz21hQFwW2QMUI2a-U",
+      "https://lh5.googleusercontent.com/p/AF1QipPmJEgZaMZpLrd922xpIl68rJRctmlbvNwRb1TW",
   },
   {
-    id: 105,
-    name: "C&T Tailor",
-    address: "9039 Bolsa Ave # 105, Westminster, CA 92683",
-    phone: "(714) 890-7177",
-    category: "Tailor",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipNltEGvqeBLt29HjdL92Oci-7udI9BNBLilkeSy",
-  },
-  {
-    id: 106,
-    name: "Vinh Hao Water",
-    address: "9039 Bolsa Ave # 106, Westminster, CA 92683",
-    phone: "(714) 894-6250",
-    category: "Water",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPOXXRrMJJ664EwgpdeDqT4yiU_Vo86WJ92UYOg",
-  },
-  {
-    id: 107,
-    name: "Thai A Chau Hair Salon",
-    address: "9039 Bolsa Ave # 107, Westminster, CA 92683",
-    phone: "(714) 722-1979",
-    category: "Salon",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipOJXa7yJPMZCWvKCLM0LLzLXVOO5qjV6JmCiDrO",
-  },
-  {
-    id: 108,
-    name: "Pacific Realty",
-    address: "9039 Bolsa Ave # 108, Westminster, CA 92683",
-    phone: "(714) 896-8703",
-    category: "Real estate",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipP9RUg8Vd1GKID8qGwsFN5t0O7fSoYNzFBK8a8W",
-  },
-  {
-    id: 110,
-    name: "Family Optometry",
-    address: "9039 Bolsa Ave # 110, Westminster, CA 92683",
-    phone: "(714) 728-8991",
-    category: "Optometry",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipOEIqreywWtucvKpLM4v_DlYEKHk4R8RCgTxXtN",
-  },
-  {
-    id: "113-118",
-    name: "Lotus Dental",
-    address: "9039 Bolsa Ave # 113-118, Westminster, CA 92683",
-    phone: "(714) 379-2560",
-    category: "Dentist",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipMaWGTrx4Mwom6XBe0bCMaiQfChYv4RRwK-Lher",
-  },
-  {
-    id: 201,
-    name: "Cosmestic Surgery",
-    address: "9039 Bolsa Ave # 201, Westminster, CA 92683",
-    phone: "(714) 903-0446",
-    category: "Cosmetic",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPLhQGd0WApF5-qYeRJS589Vp-1AnGL6PHY2rFT",
-  },
-  {
-    id: 203,
-    name: "Doan Hearing Aid",
-    address: "9039 Bolsa Ave # 203, Westminster, CA 92683",
-    phone: "(714) 891-4780",
-    category: "Hearing",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipMDEbif7Fsk4ycJku6Q5ObU6rJnW3h-8TzvC0zb",
-  },
-  {
-    id: "204-205",
-    name: "Hana Beauty",
-    address: "9039 Bolsa Ave # 204-205, Westminster, CA 92683",
-    phone: "(714) 383-1337",
+    id: 7504,
+    name: "Tiffany Hair & Nails",
+    address: "7504 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 229-9985",
     category: "Beauty",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPeUssHualwoD868BHzxlUKs0jRnPasifQ4az-6",
+      "https://lh5.googleusercontent.com/p/AF1QipPm--DKll2pkMV_WDmNMTFkRoWba2cIzuJd8Wa3",
   },
   {
-    id: 206,
-    name: "Justice Protection",
-    address: "9039 Bolsa Ave # 206, Westminster, CA 92683",
-    phone: "(888) 861-4515",
-    category: "Security",
+    id: 7506,
+    name: "Panadería El Cortez",
+    address: "7506 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 229-9142",
+    category: "Bakery",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipMOl2PIO17rZ10K3bHpwl4QeAn9IabY3CLgrlk_",
+      "https://lh5.googleusercontent.com/p/AF1QipO7P4NeaT5WJfEePgrJz4GXFhtpbZWdIcyk5EkT",
   },
   {
-    id: 207,
-    name: "Serene Massage",
-    address: "9039 Bolsa Ave # 207, Westminster, CA 92683",
-    phone: "(714) 372-3747",
-    category: "Massage",
+    id: 7508,
+    name: "LaTona #2",
+    address: "7508 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 484-1043",
+    category: "Check cashing service",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipMtwPxSKxr1556OSzWoCLjn543A-8ikXhCGzVbg",
+      "https://lh5.googleusercontent.com/p/AF1QipMudJ7qTW7x0dHhhEJ-0-5ZhxEAU4eQ3fXUHcc",
   },
   {
-    id: 210,
-    name: "Saigon Air Shipping",
-    address: "9039 Bolsa Ave # 210, Westminster, CA 92683",
-    phone: "(657) 227-8212",
-    category: "Shipping",
+    id: 7510,
+    name: "Gold Tobacco & Vape",
+    address: "7510 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 723-0769",
+    category: "Vaporizer",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipNrLbRcjngm6V5ulSCOTutG1eiWNeNFgfEwRGCC",
+      "https://lh5.googleusercontent.com/p/AF1QipNDXdhFtwXLRXPPOmS2mjixZh7hIaTW2OrNAfxG",
   },
   {
-    id: 211,
-    name: "AI Phone",
-    address: "9039 Bolsa Ave # 211, Westminster, CA 92683",
-    phone: "(657) 505-4437",
-    category: "Phone",
-    imgURL: "",
-  },
-  {
-    id: 212,
-    name: "Farmer Insurance",
-    address: "9039 Bolsa Ave # 212, Westminster, CA 92683",
-    phone: "(714) 899-3109",
-    category: "Insurance",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPPodlQim-dowaNrpqrafdlqSkZ_qThfd0H0u6j",
-  },
-  {
-    id: 213,
-    name: "Saigon Air Shipping",
-    address: "9039 Bolsa Ave # 213, Westminster, CA 92683",
-    phone: "(657) 227-8212",
-    category: "Shipping",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipNrLbRcjngm6V5ulSCOTutG1eiWNeNFgfEwRGCC",
-  },
-  {
-    id: 214,
-    name: "Danny Service",
-    address: "9039 Bolsa Ave # 214, Westminster, CA 92683",
-    phone: "(714) 458-6658",
-    category: "Accountant",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPcKVTiKaWomgdUfjjoLhu5DI0tDPjRKwgFNLqb",
-  },
-  {
-    id: "215-216",
-    name: "Blue Sky Massage",
-    address: "9039 Bolsa Ave # 215-216, Westminster, CA 92683",
-    phone: "(714) 892-8968",
-    category: "Massage",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipM1EJuS2rIK9Qf42ntDIqnukytjnPV-L3WO-yTQ",
-  },
-  {
-    id: 217,
-    name: "Viva Travel",
-    address: "9039 Bolsa Ave # 217, Westminster, CA 92683",
-    phone: "(714) 898-3999",
-    category: "Travel",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipMYVw8BO3AObFzZEbkc_dadBkaRM_GoUgNi8Tst",
-  },
-  {
-    id: 218,
-    name: "Andre Lam  ESQ",
-    address: "9039 Bolsa Ave # 218, Westminster, CA 92683",
-    phone: "(714) 379-6449",
-    category: "Lawyer",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipP1qtxslNEsRN-PyEY_NaNyGw2S6j-x4ML_dBXF",
-  },
-  {
-    id: 302,
-    name: "Insurance Office",
-    address: "9039 Bolsa Ave # 302, Westminster, CA 92683",
-    phone: "(714) 876-7888",
-    category: "Insurance",
-    imgURL: "",
-  },
-  {
-    id: 303,
-    name: "4T Lashes",
-    address: "9039 Bolsa Ave # 303, Westminster, CA 92683",
-    phone: "(714) 234-3684",
-    category: "Beauty",
-    imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPC7zq1JAugkcWoiOql23k9f4nbDjAJqHJTxIY",
-  },
-  {
-    id: 307,
-    name: "Vacant",
-    address: "9039 Bolsa Ave # 307, Westminster, CA 92683",
+    id: 7512,
+    name: "Botanica De la Rosa",
+    address: "7512 W Cerritos Ave, Stanton, CA 90680",
     phone: "",
-    category: "",
-    imgURL: "",
-  },
-  {
-    id: 308,
-    name: "DMV Service",
-    address: "9039 Bolsa Ave # 308, Westminster, CA 92683",
-    phone: "(714) 892-8882",
-    category: "Driving",
-    imgURL: "",
-  },
-  {
-    id: 309,
-    name: "Immigration",
-    address: "9039 Bolsa Ave # 309, Westminster, CA 92683",
-    phone: "(408) 931-5077",
-    category: "Immigration",
-    imgURL: "",
-  },
-  {
-    id: 310,
-    name: "J P Tax",
-    address: "9039 Bolsa Ave # 310, Westminster, CA 92683",
-    phone: "(714) 902-0100",
-    category: "Accountant",
-    imgURL: "",
-  },
-  {
-    id: 311,
-    name: "AK Realty",
-    address: "9039 Bolsa Ave # 311, Westminster, CA 92683",
-    phone: "",
-    category: "Real estate",
-    imgURL: "",
-  },
-  {
-    id: "312-314",
-    name: "LS Gateway",
-    address: "9039 Bolsa Ave # 312-314, Westminster, CA 92683",
-    phone: "(714) 894-3477",
-    category: "Real estate",
+    category: "Night Club",
     imgURL:
-      "https://lh5.googleusercontent.com/p/AF1QipPa6qdwICv07xElEFY_oMHyTbJFVpd5Eb7QbP0E",
+      "https://lh5.googleusercontent.com/p/AF1QipPvhP2NKZU_qDRl1-LsLXKRaAU9Wq_lfRulZA9q",
+  },
+  {
+    id: 7514,
+    name: "Cerritos Nutrition",
+    address: "7514 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 527-2347",
+    category: "Health",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipORETSoSy44RJnivTmptxKMupvNtBzW5sN589Hv",
+  },
+  {
+    id: 7516,
+    name: "Golden Dream by Noris",
+    address: "7516 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(714) 737-4204",
+    category: "Recreation",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipPbqO8nvc1EtJpqZdnFRipZ4F64jZodcAXlBb7Z",
+  },
+  {
+    id: 7522,
+    name: "La Ranch Market",
+    address: "7522 W Cerritos Ave, Stanton, CA 90680",
+    phone: "(657) 470-0959",
+    category: "Grocery Store",
+    imgURL:
+      "https://lh5.googleusercontent.com/p/AF1QipO31bOIObJysFNs5v3q_hQ6eTP39BUnMLODFA0",
   },
 ];
