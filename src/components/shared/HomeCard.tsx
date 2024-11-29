@@ -4,9 +4,10 @@ import YoutubeEmbed from "./YoutubeEmbed";
 type HomeCardProps = {
   post: {
     id: number;
-    name?: string;
-    address?: string;
-    video?: string;
+    name?: boolean | undefined;
+    description?: boolean | undefined;
+    address?: boolean | undefined;
+    video?: boolean | undefined;
   };
 };
 
@@ -25,16 +26,13 @@ const map = (
 const HomeCard = ({ post }: HomeCardProps) => {
   return (
     <div className="post-card">
+      {post.description ? (
+        <p className="p-3 text-center">{plaza.description}</p>
+      ) : null}
       {post.name ? (
         <div className=" p-3 text-center">
           {plaza.leasing ? (
             <div className="flex flex-col gap-3 text-center">
-              <div className="border-b border-sky-200 pb-5">
-                Our center has a variety consulting services such as real
-                estate, accounting, and legal services. Our center also features
-                one of the most popular coffee shops in Orange County: Trung
-                Nguyen Legend, Family Optometry, and Lotus Dental
-              </div>
               <p className="">Available for lease</p>
               <p>{plaza.leasingDetail}</p>
               <div>

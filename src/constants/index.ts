@@ -37,7 +37,8 @@ export const bottombarLinks = [
 export const plaza = {
   name: "Cerritos Center",
   address: "7500 - 7522 Cerritos Ave, Stanton, CA 90860",
-  note: "Available for lease. Email or call for interest",
+  description:
+    "Visit and explore the variety of shops and restaurants at Cerritos Center. Located at the heart of Stanton, this shop features a beauty salon, taco restaurant, laundromat, and liquor mart.",
   phone1: "714-891-7856",
   phone2: "714-902-3989",
   email: "rdao2893@gmail.com",
@@ -61,18 +62,21 @@ export const homeLinks = [
 export const homeInfo = [
   {
     id: 1,
-    name: plaza.name,
+    description: true,
   },
   {
     id: 2,
-    address: "7500 - 7522 Cerritos Ave, Stanton, CA 90860",
+    name: true,
   },
   {
     id: 3,
-    video: "https://www.youtube.com/watch?v=EPBUfC9qD-w",
+    address: true,
+  },
+  {
+    id: 4,
+    video: true,
   },
 ];
-
 export const tenant = [
   {
     id: 7500,
