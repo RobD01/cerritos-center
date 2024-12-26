@@ -42,8 +42,8 @@ export const plaza = {
   phone1: "714-891-7856",
   phone2: "714-902-3989",
   email: "rdao2893@gmail.com",
-  leasing: false,
-  leasingDetail: "NA",
+  leasing: true,
+  leasingDetail: "One 1500 SF unit potentitally available in February 2024.",
 };
 
 export const homeLinks = [
